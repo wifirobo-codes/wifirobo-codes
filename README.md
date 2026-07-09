@@ -21,22 +21,12 @@ right now i’m mostly playing games, coding in my free time cuz im curious and 
 
 ---
 
-### <span style="color:#7dcfff;">github stuff</span>
+### <span style="color:#7dcfff;">github streak</span>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wifirobo-codes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats card" />
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=wifirobo-codes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages card" />
 <img height="160" src="https://streak-stats.demolab.com?user=wifirobo-codes&theme=tokyonight&hide_border=true" alt="GitHub streak card" />
 
-</div>
-
----
-
-### <span style="color:#9ece6a;">snake</span> (yes this updates itself from `output/github-contribution-grid-snake.svg`)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wifirobo-codes/wifirobo-codes/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
 
 ---
