@@ -4,7 +4,7 @@
 
 ### i'm **wificodes** (<span style="color:#bb9af7;">wifirobo</span>)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=i+play+games+%F0%9F%8E%AE;code+in+my+free+time+%F0%9F%92%BB;forget+to+sleep+%F0%9F%98%B4;and+open+way+too+many+tabs+%F0%9F%98%AD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=i+play+games;code+in+my+free+time;forget+to+sleep;and+open+way+too+many+tabs" alt="Typing SVG" />
 
 </div>
 
