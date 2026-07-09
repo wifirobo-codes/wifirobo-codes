@@ -11,9 +11,9 @@
 ---
 
 i play games, code in my free time, forget to sleep, and open way too many tabs  
-(currently like **32 tabs** open on opera gx and 12 on firefox 💀)
+(currently as i am writing this, there are like **32 tabs** open on opera gx and 12 on firefox 💀)
 
-right now i’m mostly playing games, coding in my free time cuz im curious and cuz i wanna build my github profile, portfolio and stuff idk.
+i’m mostly playing games, coding in my free time cuz im curious and cuz i wanna build my github profile, portfolio and stuff idk.
 
 - making little tools + random experiments
 - learning as i go
