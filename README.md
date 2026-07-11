@@ -45,8 +45,7 @@ i’m mostly playing games, coding in my free time cuz im curious and cuz i wann
 
 ### <span style="color:#e0af68;">contact</span>
 
-- discord (me): `not_wifi`
-- discord (gf): `ahem_11388`
+- discord : `not_wifi`
 
 ---
 
