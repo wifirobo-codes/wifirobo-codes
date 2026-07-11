@@ -37,6 +37,7 @@ i’m mostly playing games, coding in my free time cuz im curious and cuz i wann
 
 [![Instagram](https://img.shields.io/badge/Instagram-@wifirobo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wifirobo)
 [![Linktree](https://img.shields.io/badge/Linktree-wificodes-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/wificodes)
+[![Website](https://img.shields.io/badge/Website-wifirobo-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bit.ly/wifirobo)
 [![Profile Views](https://komarev.com/ghpvc/?username=wifirobo-codes&style=for-the-badge&color=7aa2f7)](https://github.com/wifirobo-codes)
 
 </div>
